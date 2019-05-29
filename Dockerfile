@@ -1,3 +1,3 @@
 FROM nginx
 COPY index.html /usr/share/nginx/html/
-LABEL creater dazuimao1990
+LABEL creater1 dazuimao1990
