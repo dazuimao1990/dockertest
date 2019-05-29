@@ -1,2 +1,2 @@
 FROM nginx
-RUN touch /test_dir
+COPY index.html /usr/share/nginx/html/
